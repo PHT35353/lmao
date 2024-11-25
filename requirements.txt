@@ -1,0 +1,7 @@
+streamlit
+streamlit-javascript
+pandas
+requests
+fastapi
+uvicorn
+pydantic
